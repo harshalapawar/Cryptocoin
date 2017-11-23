@@ -8,7 +8,23 @@ Cryptcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - 25 blocks coinbase muturity
 
 
+
+
+
 ### Testing
+
+cd src; make -f makefile.unix ;
+
+./cryptocoind -deamon
+
+
+# Create a cryptocoin.conf file inside /home/username/.cryptocoin/
+
+rpcuser=Yourusername
+rpcpassword=Yourpassword
+addnode=192.168.0.1
+
+
 
 Unit tests for the core code are in `src/test/`. To compile and run them:
 
