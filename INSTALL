@@ -1,0 +1,9 @@
+Building Cryptcoin
+
+See doc/readme-qt.rst for instructions on building Cryptcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cryptcoin.
+
+See doc/build-*.txt for instructions on building cryptcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cryptcoin.
