@@ -18,7 +18,7 @@ cd src; make -f makefile.unix ;
 ./cryptocoind -deamon
 
 
-# Create a cryptocoin.conf file inside /home/username/.cryptocoin/
+##### Create a cryptocoin.conf file inside /home/username/.cryptocoin/
 
 rpcuser=Yourusername
 rpcpassword=Yourpassword
